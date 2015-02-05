@@ -12,8 +12,8 @@ Required : install of node js
 Display : 
 
 `#1 - First todo
-#2 - Second todo
-#3 - Other todo`
+\#2 - Second todo
+\#3 - Other todo`
 
 # Deltet a todo-list
 Example to delete the todo "#3 - Other todo", enter
