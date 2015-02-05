@@ -1,7 +1,10 @@
 # Install Todo-list
-Required : install of node js
+Required : install of node js and npm
 
-`sudo npm install`
+clone the project and run this command `sudo npm install -g`
+or `sudo npm install -g nickleus73/todo-list`
+
+
 
 # Create a todo
 `todo-list -t "My TODO"`
