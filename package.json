@@ -1,0 +1,15 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "To be able manage todo-list in local project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": {
+    "todo-list": "./bin/todo-list"
+  },
+  "author": "MORICET Nicolas",
+  "license": "ISC",
+  "dependencies": {}
+}
