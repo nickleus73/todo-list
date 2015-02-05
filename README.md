@@ -9,11 +9,9 @@ Required : install of node js
 # Read a todo-list
 `todo-list -r`
 
-Display : 
+Display (with a new line for each todo) : 
 
-`#1 - First todo
-\#2 - Second todo
-\#3 - Other todo`
+`#1 - First todo #2 - Second todo #3 - Other todo`
 
 # Deltet a todo-list
 Example to delete the todo "#3 - Other todo", enter
