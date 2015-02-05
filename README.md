@@ -9,8 +9,11 @@
 'todo-list -r'
 
 Display : 
+
 '#1 - First todo'
+
 '#2 - Second todo'
+
 '#3 - Other todo'
 
 # Deltet a todo-list
